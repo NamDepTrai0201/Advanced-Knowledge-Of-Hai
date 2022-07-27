@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img id="lightball" src="https://www.w3schools.com/js/pic_bulboff.gif" alt="">
+    <button onclick="turnOn()">TurnOn</button>
+    <button onclick="turnOff()">TurnOff</button>
+    <script>
+     let lightBall = document.getElementById("lightball") 
+     //Dùng để gắn biến (rút ngắn hoặc ngắn gọn th)
+     console.dir(lightBall)
+
+     let turnOff = function(){
+        lightBall.src = "https://www.w3schools.com/js/pic_bulboff.gif"
+    }
+     let turnOn = function(){
+        lightBall.src = "https://www.w3schools.com/js/pic_bulbon.gif"
+    }
+    </script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+.Hình{
+    width:  100px;
+    height: 100px;
+    border: 2px solid;
+    margin: auto;
+    margin-bottom : 20px;
+    text-align: center;
+}
+#h{
+    font-size: 2cm;
+    margin-left : 350px
+}

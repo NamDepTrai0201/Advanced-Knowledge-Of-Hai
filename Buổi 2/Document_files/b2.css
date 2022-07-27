@@ -1,0 +1,814 @@
+.FirstScreen{
+    border: 1px solid black;
+    height: 590px;
+    width: 1210px;
+    /* margin-left: 180px; */
+    background: linear-gradient(#00000069, #00000069), url("./OmniPage/hero.jpg") center / cover no-repeat; 
+    background-size: 1210px;
+    background-position-y: -100px;
+}
+.Mainlogo2{
+    width: 120px;   
+    margin-left: 68px;
+    margin-top: 12px;
+}
+.SomeTab{
+    list-style: none;
+    /* border: 1px solid black; */
+    display: flex;
+    width: 600px;
+    margin-top: -100px;
+    margin-left: 568px;
+    justify-content: space-around;
+    font-size: 0.6cm;
+}
+.DeleteIt{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.FirstP{
+    font-size: 1cm;
+    margin-left: 200px;
+    margin-top: 145px;
+    /* border: 1px solid; */
+    width: 320px;
+    color: white;
+}
+.SecondP{
+    font-size: 1cm;
+    margin-left: 200px;
+    margin-top: -26px;
+    /* border: 1px solid; */
+    width: 420px;
+    position: absolute;
+    color: white;
+}
+.FirstButton{
+    text-decoration: none;
+    border: 1px solid rgb(255, 189, 6);
+    margin-left: 200px;
+    margin-top: 26px;
+    position: absolute;
+    width: 144px;
+    font-size: 0.6cm;
+    text-align: center;
+    border-radius: 50px;
+    color: rgb(255, 189, 6);
+    height: 30px;
+    padding-top: 5px;
+}
+.SecondButton{
+    text-decoration: none;
+    border: 1px solid rgb(255, 189, 6);
+    margin-left: 346px;
+    margin-top: 26px;
+    position: absolute;
+    width: 200px;
+    font-size: 0.6cm;
+    text-align: center;
+    border-radius: 50px;
+    color: rgb(255, 189, 6);
+    height: 30px;
+    padding-top: 5px;
+}
+a:hover{
+    background-color: rgb(255, 189, 6);
+    color: white;
+}
+.SecondScreen{
+    border: 1px solid black;
+    width: 1210px;
+    height: 495px;
+}
+.FirstTittleInSecondScreen{
+    font-size: 1.15cm;
+    margin-left: 350px;
+    margin-top: 40px;
+    color: grey;
+    font-family: sans-serif;
+}
+.RandomThingInSecondScreen{
+    border: 1px solid orange;
+    width: 150px;
+    height: 0px;
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 534px;
+    color: white;
+}
+.FirstPInSecondScreen{
+    /* border: 1px solid black; */
+    width: 700px;
+    font-size: 0.5cm;
+    margin-left: 278px;
+    color: grey;
+    text-align: center;
+}
+.SecondTittleInSecondScreen{
+    margin-left: 130px;
+    font-size: 0.6cm;
+    color: #757575;
+    position: absolute
+}
+.SecondPInSecondScreen{
+    margin-left: 130px;
+    margin-top: 67px;
+    font-size: 0.489cm;
+    color: #757575;
+    /* border: 1px solid black; */
+    width: 182px;
+    position: absolute;
+}
+.ThirdlyTittleInSecondScreen{
+    margin-left: 410px;
+    font-size: 0.6cm;
+    color: #757575;
+    position: absolute
+}
+.ThirdlyPInSecondScreen{
+    margin-left: 410px;
+    margin-top: 67px;
+    font-size: 0.489cm;
+    color: #757575;
+    /* border: 1px solid black; */
+    width: 182px;
+    position: absolute;
+}
+.TheFourTittleInSecondScreen{
+    margin-left: 680px;
+    font-size: 0.6cm;
+    color: #757575;
+    position: absolute
+}
+.TheFourPInSecondScreen{
+    margin-left: 680px;
+    margin-top: 67px;
+    font-size: 0.489cm;
+    color: #757575;
+    /* border: 1px solid black; */
+    width: 182px;
+    position: absolute;
+}
+.TheFiveTittleInSecondScreen{
+    margin-left: 950px;
+    font-size: 0.6cm;
+    color: #757575;
+    position: absolute
+}
+.TheFivePInSecondScreen{
+    margin-left: 950px;
+    margin-top: 67px;
+    font-size: 0.489cm;
+    color: #757575;
+    /* border: 1px solid black; */
+    width: 182px;
+    position: absolute;
+}
+.ThirdScreen{
+    border: 1px solid;
+    height: 453px;
+    width: 1210px;
+    background-color: black;
+}
+.ImgInThirdScreen{
+    width: 299.4px;
+}
+.FirstTittleInFourScreen{
+    font-size: 1.15cm;
+    margin-left: 330px;
+    margin-top: 40px;
+    color: grey;
+    font-family: sans-serif;
+}
+.RandomThingInFourScreen{
+    border: 1px solid orange;
+    width: 150px;
+    height: 0px;
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 534px;
+    color: rgb(221, 221, 221);
+}
+.TheFourScreen{
+    border: 1px solid black;
+    width: 1210px;
+    height: 650px;
+    background-color: rgba(238, 237, 237, 0.993);
+}
+.FirstImgInFourScreen{
+    width: 230px;
+    margin-left: 255px;
+}
+.FirstNumberCircleInFourScreen{  
+    position: absolute;
+    margin-left: 550px;
+    margin-top: -400px;
+    font-size: 0.8cm;
+    border: 1px solid orange;
+    border-radius: 100%;
+    width: 30px;
+    height: 43px;
+    padding-left: 14px;
+    padding-top: 6px;
+    color: orange;
+}
+.SecondNumberCircleInFourScreen{
+    position: absolute;
+    margin-left: 550px;
+    margin-top: -300px;
+    font-size: 0.8cm;
+    border: 1px solid orange;
+    border-radius: 100%;
+    width: 30px;
+    height: 43px;
+    padding-left: 14px;
+    padding-top: 6px;
+    color: orange;
+}
+.ThirdNumberCircleInFourScreen{
+    position: absolute;
+    margin-left: 550px;
+    margin-top: -200px;
+    font-size: 0.8cm;
+    border: 1px solid orange;
+    border-radius: 100%;
+    width: 30px;
+    height: 43px;
+    padding-left: 14px;
+    padding-top: 6px;
+    color: orange;
+}
+.FirstPInFourScreen{
+    position: absolute;
+    margin-left: 610px;
+    margin-top: -398px;
+    /* border: 1px solid; */
+    font-size: 0.5cm;
+    width: 300px;
+    color: grey;
+}
+.SecondPInFourScreen{
+    position: absolute;
+    margin-left: 610px;
+    margin-top: -298px;
+    /* border: 1px solid; */
+    font-size: 0.5cm;
+    width: 350px;
+    color: grey;
+}
+.ThirdPInFourScreen{
+    position: absolute;
+    margin-left: 610px;
+    margin-top: -197px;
+    /* border: 1px solid; */
+    font-size: 0.5cm;
+    width: 330px;
+    color: grey;
+}
+.FirstLittleIconInFourScreen{
+    width: 250px;
+    margin-left: 50px;
+}
+.SecondLittleIconInFourScreen{
+    width: 250px;
+    height: 66.9px;
+    margin-bottom: 14.9px;
+}
+.TheFiveScreen{
+    border: 1px solid black;
+    width: 1210px;
+    height: 550px;
+}
+.FirstTittleInFiveScreen{
+    font-size: 1.15cm;
+    margin-left: 330px;
+    margin-top: 40px;
+    color: grey;
+    font-family: sans-serif;
+}
+.RandomThingInFiveScreen{
+    border: 1px solid orange;
+    width: 150px;
+    height: 0px;
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 534px;
+    color: rgb(221, 221, 221);
+}
+.FirstImgInFiveScreen{
+    width: 220px;
+    margin-left: 60px;
+}
+.SecondImgInFiveScreen{
+    width: 220px;
+    margin-left: 70px;
+}
+.ThirdImgInFiveScreen{
+    width: 220px;
+    margin-left: 70px;
+}
+.FourImgInFiveScreen{
+    width: 220px;
+    margin-left: 70px;
+}
+.SecondTittleInFiveScreen{
+    margin-left: 60px;
+    font-size: 0.6cm;
+    margin-top: -5px;
+    color: grey;  
+}
+.FirstPOfFirstImg{
+    margin-left: 60px;
+    font-size: 0.57cm;
+    margin-top: -18px;
+    color: rgb(255, 153, 0);
+}
+.SecondPOfFirstImg{
+    margin-left: 60px;
+    font-size: 0.57cm;
+    margin-top: -15px;
+    color: rgb(255, 153, 0);
+}
+.ThirdPOfFirstImg{
+    margin-left: 60px;
+    font-size: 0.57cm;
+    margin-top: -19px;
+    color: rgb(255, 153, 0);
+    list-style: none;
+    position: absolute;
+}
+.ThirdTittleInFiveScreen{
+    margin-left: 354px;
+    font-size: 0.6cm;
+    margin-top: -109px;
+    color: grey;
+    position: absolute;
+}
+.FirstPOfSecondImg{
+    margin-left: 354px;
+    font-size: 0.57cm;
+    margin-top: -76px;
+    color: rgb(255, 153, 0);
+    position: absolute;
+}
+.SecondPOfSecondImg{
+    margin-left: 354px;
+    font-size: 0.57cm;
+    margin-top: -46px;
+    color: rgb(255, 153, 0);
+}
+.ThirdPOfSecondImg{
+    margin-left: 354px;
+    font-size: 0.57cm;
+    margin-top: -19px;
+    color: rgb(255, 153, 0);
+    list-style: none;
+    position: absolute;
+}
+.FourTittleInFiveScreen{
+    margin-left: 645px;
+    font-size: 0.6cm;
+    margin-top: -109px;
+    color: grey;
+    position: absolute;
+}
+.FirstPOfThirdImg{
+    margin-left: 645px;
+    font-size: 0.57cm;
+    margin-top: -76px;
+    color: rgb(255, 153, 0);
+    position: absolute;
+}
+.SecondPOfThirdImg{
+    margin-left: 645px;
+    font-size: 0.57cm;
+    margin-top: -46px;
+    color: rgb(255, 153, 0);
+}
+.ThirdPOfThirdImg{
+    margin-left: 645px;
+    font-size: 0.57cm;
+    margin-top: -19px;
+    color: rgb(255, 153, 0);
+    list-style: none;
+    position: absolute;
+}
+.FiveTittleInFiveScreen{
+    margin-left: 940px;
+    font-size: 0.6cm;
+    margin-top: -109px;
+    color: grey;
+    position: absolute;
+}
+.FirstPInFourImg{
+    margin-left: 940px;
+    font-size: 0.57cm;
+    margin-top: -76px;
+    color: rgb(255, 153, 0);
+    position: absolute;
+}
+.SecondPInFourImg{
+    margin-left: 940px;
+    font-size: 0.57cm;
+    margin-top: -45px;
+    color: rgb(255, 153, 0);
+    position: absolute;
+}
+.ThirdPInFourImg{
+    margin-left: 940px;
+    font-size: 0.57cm;
+    margin-top: -19px;
+    color: rgb(255, 153, 0);
+    list-style: none;
+    position: absolute;
+}
+.TheSixScreen{
+    border: 1px solid black;
+    width: 1210px;
+    height: 300px;
+}
+.RandomThingInSixScreen{
+    border: 1px solid orange;
+    width: 150px;
+    height: 0px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 534px;
+    color: rgb(221, 221, 221);
+}
+.FirstPInSixScreen{
+    margin-top: 130px;
+    font-size: 1cm;
+    margin-left: 235px;
+    color: cadetblue;
+}
+.TheSevenScreen{
+    border: 1px solid black;
+    width: 1210px;
+    height: 700px;
+    background-color: rgb(240, 240, 240);
+}
+.FirstTittleInSevenScreen{
+    font-size: 1.15cm;
+    margin-left: 355px;
+    margin-top: 40px;
+    color: grey;
+    font-family: sans-serif;
+}
+.RandomThingInSevenScreen{
+    border: 1px solid orange;
+    width: 150px;
+    height: 0px;
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 534px;
+    color: #ffb20b;
+}
+.FirstPlanInSevenScreen{
+    font-size: 0.7cm;
+    position: absolute;
+    margin-left: 110px;
+    border: 3px solid rgb(255, 194, 26);
+    width: 250px;
+    height: 400px;
+    position: absolute;
+    font-family: sans-serif;
+}
+.SecondPlanInSevenScreen{
+    font-size: 0.7cm;
+    position: absolute;
+    margin-left: 477px;
+    border: 3px solid rgb(166, 255, 34);
+    width: 250px;
+    height: 400px;
+    font-family: sans-serif;
+}
+.ThirdPlanInSevenScreen{
+    font-size: 0.7cm;
+    position: absolute;
+    margin-left: 844px;
+    border: 3px solid cornflowerblue;
+    width: 250px;
+    height: 400px;
+    font-family: sans-serif;
+}
+.FirstPofFirstPlan{
+    position: absolute;
+    margin-left: 113px;
+    margin-top: 62px;
+    font-size: 1cm;
+    color: orange;
+    font-family: sans-serif;
+}
+.FirstPOfSecondPlan{
+    position: absolute;
+    margin-left: 477px;
+    margin-top: 62px;
+    font-size: 1cm;
+    color: orange;
+    font-family: sans-serif;
+}
+.FirstPOfThirdPlan{
+    position: absolute;
+    margin-left: 844px;
+    margin-top: 62px;
+    font-size: 1cm;
+    color: orange;
+    font-family: sans-serif;
+}
+.SecondPOfFirstPlan{
+    margin-left: 116px;
+    margin-top: 107px;
+    position: absolute;
+    font-size: 0.52cm;
+    color: #9d9c9c;
+}
+.SecondPOfSecondPlan{
+    margin-left: 484px;
+    margin-top: 107px;
+    position: absolute;
+    font-size: 0.52cm;
+    color: #9d9c9c;
+}
+.SecondPOfThirdPlan{
+    margin-left: 850px;
+    margin-top: 107px;
+    position: absolute;
+    font-size: 0.52cm;
+    color: #9d9c9c;
+}
+.TicketFirstPlan{
+    position: absolute;
+    margin-left: 115px;
+    margin-top: 150px;
+}
+.TicketSecondPlan{
+    position: absolute;
+    margin-left: 482px;
+    margin-top: 150px;
+}
+.TicketThirdPlan{
+    position: absolute;
+    margin-left: 850px;
+    margin-top: 150px;
+}
+.ThirdPOfFirstPlan{
+    position: absolute;
+    margin-left: 145px;
+    margin-top: 151px;
+    font-size: 0.5cm;
+}
+.ThirdPOfSecondPlan{
+    position: absolute;
+    margin-left: 510px;
+    margin-top: 151px;
+    font-size: 0.5cm;
+}
+.ThirdPOfThirdPlan{
+    position: absolute;
+    margin-left: 880px;
+    margin-top: 151px;
+    font-size: 0.5cm;
+}
+.ThirdPOfThirdPlan , .ThirdPOfSecondPlan , .ThirdPOfFirstPlan{
+    color: rgb(163, 163, 163);
+}
+.TicketFirstPlan , .TicketSecondPlan , .TicketThirdPlan , .Ticket1FirstPlan , .Ticket2SecondPlan , .Ticket3ThirdPlan , .Ticket4FirstPlan , .Ticket5SecondPlan , .Ticket6ThirdPlan , .Ticket7FirstPlan , .Ticket8SecondPlan , .Ticket9ThirdPlan{
+    width: 25px;
+}
+.Ticket1FirstPlan{
+    position: absolute;
+    margin-left: 115px;
+    margin-top: 180px;
+}
+.Ticket2SecondPlan{
+    position: absolute;
+    margin-left: 482px;
+    margin-top: 180px;
+}
+.Ticket3ThirdPlan{
+    position: absolute;
+    margin-left: 850px;
+    margin-top: 180px;
+}
+.TheFourPOfFirstPlan{
+    position: absolute;
+    margin-left: 145px;
+    margin-top: 181.5px;
+    font-size: 0.5cm;
+}
+.TheFourPOfSecondPlan{
+    position: absolute;
+    margin-left: 510px;
+    margin-top: 181.5px;
+    font-size: 0.5cm;
+}
+.TheFourPOfThirdPlan{
+    position: absolute;
+    margin-left: 880px;
+    margin-top: 181.5px;
+    font-size: 0.5cm;
+}
+.TheFourPOfFirstPlan , .TheFourPOfSecondPlan , .TheFourPOfThirdPlan{
+    color: rgb(163, 163, 163);
+}
+.Ticket4FirstPlan , .Ticket5SecondPlan , .Ticket6ThirdPlan{
+    margin-top: 210px;
+    position: absolute;
+}
+.Ticket4FirstPlan{
+    margin-left: 115px;
+}
+.Ticket5SecondPlan{
+    margin-left: 482px;
+}
+.Ticket6ThirdPlan{
+    margin-left: 850px;
+}
+.TheFivePOfFirstPlan , .TheFivePOfSecondPlan , .TheFivePOfThirdPlan , .TheSixPOfFirstPlan , .TheSixPOfSecondPlan , .TheSixPOfThirdPlan{
+    font-size: 0.5cm;
+    color: rgb(163, 163, 163);
+    position: absolute;
+}
+.TheFivePOfFirstPlan{
+    margin-left: 145px;
+    margin-top: 210.5px;
+}
+.TheFivePOfSecondPlan{
+    margin-left: 510px;
+    margin-top: 210.5px;
+}
+.TheFivePOfThirdPlan{
+    margin-left: 881px;
+    margin-top: 210.5px;
+}
+.Ticket7FirstPlan , .Ticket8SecondPlan , .Ticket9ThirdPlan{
+    margin-top: 240px;
+    position: absolute;
+}
+.Ticket7FirstPlan{
+    margin-left: 115px;
+}
+.Ticket8SecondPlan{
+    margin-left: 482px;
+}
+.Ticket9ThirdPlan{
+    margin-left: 850px;
+}
+.TheSixPOfFirstPlan , .TheSixPOfSecondPlan , .TheSixPOfThirdPlan{
+    margin-top: 240.5px;
+}
+.TheSixPOfFirstPlan{
+    margin-left: 145px;
+}
+.TheSixPOfSecondPlan{
+    margin-left: 510px;
+}
+.TheSixPOfThirdPlan{
+    margin-left: 881px;
+}
+.FirstButtonInTheSevenScreen , .SecondButtonInTheSevenScreen , .ThirdButtonInTheSevenScreen{
+    text-decoration: none;
+    border: 1px solid rgb(255, 189, 6);
+    margin-top: 284px;  
+    position: absolute;
+    width: 144px;
+    font-size: 0.6cm;
+    text-align: center;
+    border-radius: 50px;
+    color: rgb(255, 189, 6);
+    height: 30px;
+    padding-top: 5px;
+}
+.FirstButtonInTheSevenScreen{
+    margin-left: 164px;
+}
+.SecondButtonInTheSevenScreen{
+    margin-left: 533px;
+}
+.ThirdButtonInTheSevenScreen{
+    margin-left: 900px;
+}
+.TheEightScreen{
+    border: 1px solid black;
+    width: 1210px;
+    height: 450px;
+    background-color: rgb(255, 255, 255);
+}
+.FirstTittleInEightScreen{
+    font-size: 1.15cm;
+    margin-left: 330px;
+    margin-top: 40px;
+    color: grey;
+    font-family: sans-serif;
+}
+.RandomThingInEightScreen{
+    border: 1px solid orange;
+    width: 150px;
+    height: 0px;
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 534px;
+    color: #ffb20b;
+}
+.FirstPInEightScreen{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 15px;
+    font-size: 0.7cm;
+    font-family: sans-serif;
+}
+.NameInput{
+    margin-left: 450px;
+    margin-top: 17px;
+    width: 330px;
+    height: 25px;
+}
+.SecondPInEightScreen{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 10px;
+    font-size: 0.7cm;
+    font-family: sans-serif;
+}
+.GmailInput{
+    margin-left: 450px;
+    margin-top: 10px;
+    width: 330px;
+    height: 25px;
+}
+.ThirdPInEightScreen{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 10px;
+    font-size: 0.7cm;
+    font-family: sans-serif;
+}
+.Buttonlist1{
+    position: absolute;
+    margin-top: 55px;
+    margin-left: -338px;
+}
+.InputForButton1{
+    position: absolute;
+    margin-left: 472px;
+    font-family: sans-serif;
+}
+.Buttonlist2{
+    position: absolute;
+    margin-top: 55px;
+    margin-left: -230px;
+}
+.InputForButton2{
+    position: absolute;
+    margin-left: 580px;
+    font-family: sans-serif;
+}
+.Buttonlist3{
+    position: absolute;
+    margin-top: 55px;
+    margin-left: -147px;
+}
+.InputForButton3{
+    position: absolute;
+    margin-left: 662px;
+    font-family: sans-serif;
+}
+.TheFourPInEightScreen{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 50px;
+    font-size: 0.7cm;
+    font-family: sans-serif;
+}
+.CommentInput{
+    margin-left: 450px;
+    margin-top: 50px;
+    width: 330px;
+    height: 25px;
+}
+.SumbitButton{
+    position: absolute;
+    margin-left: -200px;
+    margin-top: 95px;
+}
+.DeleteTheUnderThing{
+    text-decoration: none;
+    list-style: none;
+    color: grey;
+}
+.FooterCreate{
+    border: 1px solid;
+    width: 1210px;
+    height: 140px;
+    background-color: rgb(102, 102, 102);
+}
+.TheFooter{
+    width: 800px;
+    height: 139px;
+    display: flex;
+    margin-left: 200px;
+    font-size: 1cm;
+    justify-content: space-around;
+    align-items: center;
+}

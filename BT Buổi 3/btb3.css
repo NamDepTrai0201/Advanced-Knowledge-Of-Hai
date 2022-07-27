@@ -1,0 +1,17 @@
+.PictureKeeper{
+    border: 1px solid;
+    height: 800px;
+}
+.Picture{
+    width: 33.11%;
+}
+.Openbutton{
+    position: absolute;
+}
+.ClosedButton{
+    position: absolute;
+    margin-top: 275px;
+}
+.Openorclosed{
+    width: 400px;
+}

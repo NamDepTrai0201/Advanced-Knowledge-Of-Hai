@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./btb3.css">
+    <script src="./btb3.js"></script>
+</head>
+<body>
+    <img class="Openorclosed" id="OpenOrClosed" src="https://imgflip.com/s/meme/Blank-Nut-Button.jpg" alt="">
+    <button class="Openbutton" onclick="Open()">Open</button>
+    <button class="ClosedButton" onclick="Closed()">Closed</button>
+    <script>
+        let Board = document.getElementById("OpenOrClosed")
+        console.dir(Board)
+        let Open = function(){
+           Board.src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_h8EY15Ldd8h9a_U0qYm1NE8tIqqZEthpi11bI39ddc63WA7MHpRSitCeBZvdNWPuKiE&usqp=CAU"
+        }
+        let Closed = function(){
+           Board.src = "https://pix10.agoda.net/hotelImages/4846104/0/dce9da46bf689f5115da6250fb4f45d7.jpg?ca=7&ce=1&s=1024x768"
+        }
+    </script>
+    <hr> 
+    <div class="PictureKeeper">
+       <img class="Picture" src="https://t4.ftcdn.net/jpg/01/62/60/41/360_F_162604173_BebcZ0a36Dv7Qhu9s9D9ljBAfLaig0ch.jpg" alt="">
+       <img class="Picture" src="https://media.gettyimages.com/photos/personal-perspective-of-polaroid-picture-overlapping-a-country-road-picture-id1285263806?s=612x612" alt="">
+       <img class="Picture" src="https://media.gettyimages.com/photos/personal-perspective-of-polaroid-picture-overlapping-the-tuscany-picture-id1257551853?s=2048x2048" alt="">
+       <img class="Picture" src="https://i.pinimg.com/736x/ca/f4/77/caf477249d715cdb10427f7457d60d60.jpg" alt="">
+       <img class="Picture" src="https://thumbs.dreamstime.com/b/someone-using-smartphone-to-taking-photo-summer-landscape-someone-using-smartphone-to-taking-photo-summer-landscape-127530943.jpg" alt="">
+       <img class="Picture" src="https://images.pexels.com/photos/1252983/pexels-photo-1252983.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="">
+       <img class="Picture" src="https://media.istockphoto.com/photos/summer-photo-of-friends-having-fun-picture-id1219940758?k=20&m=1219940758&s=612x612&w=0&h=JXy26dD6Kpyob7B1QsAMcW8DKoSTnJh3gaQrZ43sTFg=" alt="">
+       <img class="Picture" src="https://st.depositphotos.com/1000501/1623/i/450/depositphotos_16230405-stock-photo-holding-instant-photo.jpg" alt="">
+       <img class="Picture" src="https://t4.ftcdn.net/jpg/01/62/60/41/360_F_162604173_BebcZ0a36Dv7Qhu9s9D9ljBAfLaig0ch.jpg" alt="">
+    </div>
+</body>
