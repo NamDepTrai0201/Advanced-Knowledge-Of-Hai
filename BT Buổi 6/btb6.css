@@ -1,0 +1,82 @@
+.MenuShop{
+    border: 1px solid black;
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuSaAFofUSWgQ3zmy2jsojg2YbmZSuNXrFyQ&usqp=CAU');
+    background-position-x: -50px;
+    background-position-y: -20px;
+}
+.ShopName{
+    font-family: sans-serif;
+    margin-left: 100px;
+    margin-top: 5px;
+    font-size: 0.6cm;
+}
+/* .stonk{
+    text-decoration: none;
+    list-style: none;
+} */
+.Stenk{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    justify-content: space-between;
+    /* border: 1px solid; */
+    width: 500px;
+    text-align: center;
+    position: absolute;
+    margin-left: 600px;
+    margin-top: -114px;
+    font-family: sans-serif;
+    color: black;
+    font-size: 0.6cm;
+}
+.Rthing{
+    color: white;
+}
+.ShirtSelection{
+    border: 1px solid;
+    width: 1214px;
+    display: flex;
+}
+.ShirtWidth{
+    width: 303px;
+}
+.FirstShirt , .SecondShirt , .ThirdlyShirt , .TheFourShirt{
+    text-align: center;
+}
+.Themvaogiohang{
+    position: absolute;
+    width: 180px;
+    background-color: rgb(211, 255, 53);
+    transition: all 0.5 ease-out;
+    opacity: 0;
+    cursor: pointer;
+    text-align: center;
+    padding-right: 40px;
+}
+.FirstShirt:hover .ao1 ,
+.SecondShirt:hover .ao2 ,
+.ThirdlyShirt:hover .ao3 ,
+.TheFourShirt:hover .ao4{
+    bottom: 185px;
+    opacity: 2;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+}
+.FirstShirt:hover .ao1{
+    left: 64;
+    width: 181px;
+}
+.SecondShirt:hover .ao2{
+    left: 365;
+    width: 190px;
+}
+.ThirdlyShirt:hover .ao3{
+    left: 670;
+    width: 183px;
+}
+.TheFourShirt:hover .ao4{
+    left: 966px;
+    width: 192.9px;
+    bottom: 205px;
+}
