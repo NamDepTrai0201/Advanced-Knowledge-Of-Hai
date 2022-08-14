@@ -1,0 +1,98 @@
+.SignInText{
+    font-size: 0.8cm;
+    color: rgba(0,0,0,0.9);
+    margin-top: 0;
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+form{
+    border: 1px solid;
+    width: 340px;
+    margin-left: 450px;
+    margin-top: 40px;
+    height: 490px;
+    box-shadow: 0 4px 12px rgb(0 0 0 / 15%);
+    background: white;
+}
+.PInInForm{
+    margin-top: 65px;
+    font-size: 0.5cm;
+}
+.Input1InForm , .Input2InForm , .PIn2InForm , .ButtonInForm , .Button2InForm , .Button3InForm , .PInInForm{
+    margin-left: 15px;
+}
+.Input1InForm{
+    font-size: 1.2rem;
+    line-height: 1.33333;
+    font-weight: 400;
+    color: rgba(0,0,0,0.9);
+    position: relative;
+    z-index: 1;
+    height: 52px;
+    border-radius: 4px ;
+    width: 300px;
+}
+.Input2InForm{
+    font-size: 1.2rem;
+    line-height: 1.33333;
+    font-weight: 400;
+    color: rgba(0,0,0,0.9);
+    position: relative;
+    z-index: 1;
+    height: 52px;
+    border-radius: 4px;
+    width: 300px;
+    margin-top: 20px;
+}
+.PIn2InForm{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    margin-top: 85px;
+    margin-left: -307px;
+    font-size: 0.5cm;
+    color: #0073b1;
+}
+.ButtonInForm{
+    margin-top: 40px;
+    width: 310px;
+    height: 40px;
+    font-size: 0.5cm;
+    border-radius: 10px;
+    border: 1px solid #0073b1;
+    background-color: #0073b1;
+    color: white;
+}
+.PIn3InForm{
+    margin-left: 2px;
+}
+.Button2InForm , .Button3InForm{
+    width: 310px;
+    height: 40px;
+    font-size: 0.5cm;
+    border-radius: 10px;
+}
+.Button2InForm{
+    padding-left: 40px;
+    background-color: white;
+}
+.Button3InForm{
+    margin-top: 10px;
+    padding-left: 30px;
+    background-color: white;
+}
+.Icon1{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-left: -253px;
+    margin-top: -34px;
+}
+.Icon2{
+    width: 90px;
+    position: absolute;
+    margin-top: -16px;
+    margin-left: -283px;
+}
