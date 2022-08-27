@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.TaskBar{
+    border: 0px solid rgb(0, 0, 0);
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(167, 208, 255);
+    height: 40px;
+}
+.Task1 , .Task2 , .Task3{
+    margin-right: 50px;
+    text-decoration: none;
+    list-style: none;
+    margin-top: 6px;
+    font-size: 0.6cm;
+    font-family: monospace;
+    color: rgb(0, 0, 0);
+}
+.FirstLogoInPart1{
+    width: 230px;
+    margin-top: -40px;
+    margin-left: 20px;
+}
+.FirstInputInPart1{
+    position: absolute;
+    width: 540px;
+    border-radius: 10px;
+    height: 40px;
+    font-size: 0.7cm;
+    margin-top: 61px;
+    padding-left: 10px;
+    margin-left: 80px;
+}
+.FirstButtonInPart1{
+    width: 40px;
+    position: absolute;
+    height: 40px;
+    margin-top: 61px;
+    margin-left: 580.45px;
+    color: ghostwhite;
+    border-radius: 7px ;
+}
+.SecondLogoInPart1{
+    width: 40px;
+    position: absolute;
+    margin-top: 61px;
+    margin-left: 580.45px;
+}
+.TaskPart1Contain{
+    /* border: 1px solid; */
+    display: flex;
+    width: 550px;
+    font-size: 0.5cm;
+    list-style: none;
+    justify-content: space-around;
+    position: absolute;
+    margin-top: -91px;
+    margin-left: 325px;
+}
+/* .CrushImg{
+    position: absolute;
+    height: 40px;
+} */
+.Task1InPart1 , .Task2InPart1 , .Task3InPart1 , .Task4InPart1 , .Task5InPart1 , .Task6InPart1 , .Task7InPart1{
+    text-decoration : none;
+    color: rgb(65, 206, 136);
+}
+.Part2InFirstScreen{
+    /* border: 1px solid; */
+    display: flex;
+    height: 60px;
+    font-size: 0.49cm;
+    font-weight: 700;
+    position: absolute;
+    width: 1232px;
+    justify-content: space-around;
+    margin-top: -41px;
+    background-color: rgb(167, 208, 255);
+}
+.Task1InPart2 , .Task2InPart2 ,.Task3InPart2 , .Task4InPart2 , .Task5InPart2 , .Task6InPart2 , .Task7InPart2 , .Task8InPart2 , .Task9InPart2 , .Task10InPart2 , .Task11InPart2 , .Task12InPart2{
+    text-decoration: none;
+    list-style: none;
+    margin-top: 20px;
+    color: black;
+}
