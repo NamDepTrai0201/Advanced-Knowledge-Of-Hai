@@ -21,7 +21,7 @@
 }
 .FirstLogoInPart1{
     width: 230px;
-    margin-top: -40px;
+    margin-top: -20px;
     margin-left: 20px;
 }
 .FirstInputInPart1{
@@ -30,7 +30,7 @@
     border-radius: 10px;
     height: 40px;
     font-size: 0.7cm;
-    margin-top: 61px;
+    margin-top: 60px;
     padding-left: 10px;
     margin-left: 80px;
 }
@@ -38,7 +38,7 @@
     width: 40px;
     position: absolute;
     height: 40px;
-    margin-top: 61px;
+    margin-top: 60px;
     margin-left: 580.45px;
     color: ghostwhite;
     border-radius: 7px ;
@@ -46,7 +46,7 @@
 .SecondLogoInPart1{
     width: 40px;
     position: absolute;
-    margin-top: 61px;
+    margin-top: 60px;
     margin-left: 580.45px;
 }
 .TaskPart1Contain{
@@ -57,7 +57,7 @@
     list-style: none;
     justify-content: space-around;
     position: absolute;
-    margin-top: -91px;
+    margin-top: -110px;
     margin-left: 325px;
 }
 /* .CrushImg{
@@ -85,4 +85,76 @@
     list-style: none;
     margin-top: 20px;
     color: black;
+}
+.ThanhSanPham1InPart3{
+    margin-top: 40px;
+    margin-left: 60px;
+}
+.FirstHrInPart3{
+    width: 212px;
+    margin-left: 60px;
+}
+.Input1InForm{
+    position: absolute;
+    margin-left: 950px;
+    width: 200px;
+    height: 35px;
+    margin-top: -170px;
+    font-size: 0.45cm;
+    border-radius: 10px;
+}
+.Input2InForm{
+    position: absolute;
+    margin-left: 950px;
+    width: 200px;
+    height: 35px;
+    margin-top: -130px;
+    font-size: 0.45cm;
+    border-radius: 10px;
+}
+.SecondButtonInPart1Screen1{
+    position: absolute;
+    margin-left: 1009px;
+    width: 81px;
+    height: 25px;
+    margin-top: -87px;
+}
+.BalanceTask{
+    width: 1130px;
+    display: flex;
+    justify-content: space-around;
+}
+.ThanhSanPham2InPart3{
+    position: absolute;
+    margin-top: -30px;
+    margin-left: 310px;
+}
+.SecondHrInPart3{
+    position: absolute;
+    margin-left: 310px;
+    width: 920px;
+    margin-top: -2.5px;
+}
+.DanhMucSanPhamInPart3{
+    border: 1px solid grey;
+    width: 212px;
+    margin-left: 60px;
+    margin-top: 15px;
+    height: 295px;
+}
+.Task1InPart3 , .Task2InPart3 , .Task3InPart3 ,.Task4InPart3 ,.Task5InPart3 ,.Task6InPart3 ,.Task7InPart3{
+    list-style: none;
+    text-decoration: none;
+    font-size: 0.6cm;
+    border: 1px solid rgb(190, 190, 190);
+    color: rgb(97, 97, 97);
+    padding-left: 10px;
+    height: 40px;
+    padding-top: 5px;
+}
+.Task2InPart3 , .Task3InPart3 ,.Task4InPart3 ,.Task5InPart3 ,.Task6InPart3 ,.Task7InPart3{
+    margin-top: 2px;
+}
+a{
+    text-decoration: none;
 }

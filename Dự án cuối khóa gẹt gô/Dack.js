@@ -1,12 +1,9 @@
-let both = document.getElementById('SecondButtonInPart1')
-window.onload = function(){
-    both.onclick = function(){
+function login(){
     let Username = document.getElementById('GmailOrUsername');
     let Password = document.getElementById('Passwords');
-    if(Username == "HaiSoaiCa" && Password == "123"){
+    if(Username.value == "HaiSoaiCa" && Password.value == "123"){
         alert("Log In Succesfully");
     }else{
         alert("Log in failed")
     }
-}
 }
