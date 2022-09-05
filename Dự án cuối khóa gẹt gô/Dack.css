@@ -32,14 +32,14 @@
     font-size: 0.7cm;
     margin-top: 60px;
     padding-left: 10px;
-    margin-left: 80px;
+    margin-left: 137px;
 }
 .FirstButtonInPart1{
     width: 40px;
     position: absolute;
     height: 40px;
     margin-top: 60px;
-    margin-left: 580.45px;
+    margin-left: 637.45px;
     color: ghostwhite;
     border-radius: 7px ;
 }
@@ -47,7 +47,7 @@
     width: 40px;
     position: absolute;
     margin-top: 60px;
-    margin-left: 580.45px;
+    margin-left: 637.45px;
 }
 .TaskPart1Contain{
     /* border: 1px solid; */
@@ -58,7 +58,7 @@
     justify-content: space-around;
     position: absolute;
     margin-top: -110px;
-    margin-left: 325px;
+    margin-left: 380px;
 }
 /* .CrushImg{
     position: absolute;
@@ -75,7 +75,7 @@
     font-size: 0.49cm;
     font-weight: 700;
     position: absolute;
-    width: 1232px;
+    width: 1350px;
     justify-content: space-around;
     margin-top: -41px;
     background-color: rgb(167, 208, 255);
@@ -88,15 +88,15 @@
 }
 .ThanhSanPham1InPart3{
     margin-top: 40px;
-    margin-left: 60px;
+    margin-left: 40px;
 }
 .FirstHrInPart3{
-    width: 212px;
-    margin-left: 60px;
+    width: 215px;
+    margin-left: 40px;
 }
 .Input1InForm{
     position: absolute;
-    margin-left: 950px;
+    margin-left: 1100px;
     width: 200px;
     height: 35px;
     margin-top: -170px;
@@ -105,7 +105,7 @@
 }
 .Input2InForm{
     position: absolute;
-    margin-left: 950px;
+    margin-left: 1100px;
     width: 200px;
     height: 35px;
     margin-top: -130px;
@@ -114,13 +114,13 @@
 }
 .SecondButtonInPart1Screen1{
     position: absolute;
-    margin-left: 1009px;
+    margin-left: 1157px;
     width: 81px;
     height: 25px;
     margin-top: -87px;
 }
 .BalanceTask{
-    width: 1130px;
+    width: 1330px;
     display: flex;
     justify-content: space-around;
 }
@@ -132,18 +132,18 @@
 .SecondHrInPart3{
     position: absolute;
     margin-left: 310px;
-    width: 920px;
+    width: 988px;
     margin-top: -2.5px;
 }
 .DanhMucSanPhamInPart3{
     border: 1px solid grey;
-    width: 212px;
-    margin-left: 60px;
+    width: 215px;
+    margin-left: 40px;
     margin-top: 15px;
     height: 295px;
 }
 .Task1InPart3 , .Task2InPart3 , .Task3InPart3 ,.Task4InPart3 ,.Task5InPart3 ,.Task6InPart3 ,.Task7InPart3{
-    list-style: none;
+    list-style: none;   
     text-decoration: none;
     font-size: 0.6cm;
     border: 1px solid rgb(190, 190, 190);
@@ -157,4 +157,196 @@
 }
 a{
     text-decoration: none;
+}
+.AnhSanPham1TrongHn1 , .AnhSanPham2TrongHn1 , .AnhSanPham3TrongHn1 , .AnhSanPham4TrongHn1{
+    width: 200px;
+}
+.HangNgangSanPham1{
+    /* border: 1px solid; */
+    width: 1050px;
+    position: absolute;
+    margin-top: -295px;
+    margin-left: 279px;
+    justify-content: space-around;
+    display: flex;
+}
+.HangNgangThongTinSanPham1{
+    width: 900px;
+    position: absolute;
+    margin-top: -95px;
+    margin-left: 310px;
+}
+.H41InSp{
+    position: absolute;
+    margin-top: 45px;
+}
+.P1InSp{
+    /* border: 1px solid; */
+    width: 200px;
+    position: absolute;
+    font-size: 0.49cm;
+}
+.P2InSp{
+    position: absolute;
+    margin-left: 265px;
+    width: 200px;
+    font-size: 0.49cm;
+}
+.H42InSp{
+    position: absolute;
+    margin-left: 265px;
+    margin-top: 45px;
+}
+.P3InSp{
+    position: absolute;
+    margin-left: 525px;
+    width: 200px;
+    font-size: 0.49cm;
+}
+.H43InSp{
+    position: absolute;
+    margin-left: 525px;
+    margin-top: 45px;
+}
+.P4InSp{
+    margin-left: 788px;
+    font-size: 0.49cm;
+    width: 210px;
+}
+.H44InSp{
+    margin-left: 788px;
+}
+.AnhSanPham1TrongHn2 , .AnhSanPham2TrongHn2 , .AnhSanPham3TrongHn2 , .AnhSanPham4TrongHn2{
+    width: 200px;
+}
+.HangNgangSanPham2{
+    /* border: 1px solid; */
+    width: 1050px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 279px;
+    justify-content: space-around;
+    display: flex;
+}
+.HangNgangThongTinSanPham2{
+    width: 900px;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 310px;
+}
+.AnhSanPham1TrongHn3 , .AnhSanPham2TrongHn3 , .AnhSanPham3TrongHn3 , .AnhSanPham4TrongHn3{
+    width: 200px;
+}
+.HangNgangSanPham3{
+    /* border: 1px solid; */
+    width: 1050px;
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 279px;
+    justify-content: space-around;
+    display: flex;
+}
+.HangNgangThongTinSanPham3{
+    width: 900px;
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 310px;
+}
+.AnhSanPham1TrongHn4 , .AnhSanPham2TrongHn4 , .AnhSanPham3TrongHn4 , .AnhSanPham4TrongHn4{
+    width: 200px;
+}
+.HangNgangSanPham4{
+    /* border: 1px solid; */
+    width: 1050px;
+    position: absolute;
+    margin-top: 670px;
+    margin-left: 279px;
+    justify-content: space-around;
+    display: flex;
+}
+.HangNgangThongTinSanPham4{
+    width: 900px;
+    position: absolute;
+    margin-top: 870px;
+    margin-left: 310px;
+}
+.ButtonToAnotherPage{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 545px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 947px;
+}
+.ButtonToAnotherPage2{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 580px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 947px;
+}
+.ButtonToAnotherPage3{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 615px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 947px;
+}
+.ButtonToAnotherPage4{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 650px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 947px;
+}
+.ButtonToAnotherPage5{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 685px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 947px;
+}
+.ButtonToAnotherPage6{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 720px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 947px;
+}
+.ButtonToAnotherPage7{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 755px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 947px;
+}
+.ButtonToAnotherPage8{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 790px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 947px;
 }
