@@ -178,7 +178,8 @@ a{
 }
 .H41InSp{
     position: absolute;
-    margin-top: 45px;
+    margin-top: 50px;
+    font-size: 0.5cm;
 }
 .P1InSp{
     /* border: 1px solid; */
@@ -195,7 +196,8 @@ a{
 .H42InSp{
     position: absolute;
     margin-left: 265px;
-    margin-top: 45px;
+    margin-top: 50px;
+    font-size: 0.5cm;
 }
 .P3InSp{
     position: absolute;
@@ -206,7 +208,8 @@ a{
 .H43InSp{
     position: absolute;
     margin-left: 525px;
-    margin-top: 45px;
+    margin-top: 50px;
+    font-size: 0.5cm;
 }
 .P4InSp{
     margin-left: 788px;
@@ -215,6 +218,8 @@ a{
 }
 .H44InSp{
     margin-left: 788px;
+    font-size: 0.5cm;
+    margin-top: 10px;
 }
 .AnhSanPham1TrongHn2 , .AnhSanPham2TrongHn2 , .AnhSanPham3TrongHn2 , .AnhSanPham4TrongHn2{
     width: 200px;
@@ -278,7 +283,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 947px;
+    margin-top: 1000px;
 }
 .ButtonToAnotherPage2{
     border: 1px solid;
@@ -288,7 +293,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 947px;
+    margin-top: 1000px;
 }
 .ButtonToAnotherPage3{
     border: 1px solid;
@@ -298,7 +303,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 947px;
+    margin-top: 1000px;
 }
 .ButtonToAnotherPage4{
     border: 1px solid;
@@ -308,7 +313,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 947px;
+    margin-top: 1000px;
 }
 .ButtonToAnotherPage5{
     border: 1px solid;
@@ -318,7 +323,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 947px;
+    margin-top: 1000px;
 }
 .ButtonToAnotherPage6{
     border: 1px solid;
@@ -328,7 +333,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 947px;
+    margin-top: 1000px;
 }
 .ButtonToAnotherPage7{
     border: 1px solid;
@@ -338,7 +343,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 947px;
+    margin-top: 1000px;
 }
 .ButtonToAnotherPage8{
     border: 1px solid;
@@ -348,5 +353,48 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 947px;
+    margin-top: 1000px;
+}
+.AddToCartButton1{
+    border: 1px solid black;
+    width: 200px;
+    position: absolute;
+    height: 30px;
+    color: black;
+    font-size: 0.6cm;
+    text-align: center;
+    margin-top: 10px;
+}
+.AddToCartButton2{
+    border: 1px solid black;
+    width: 200px;
+    position: absolute;
+    height: 30px;
+    color: black;
+    font-size: 0.6cm;
+    text-align: center;
+    margin-left: 262px;
+    margin-top: 10px;
+}
+.AddToCartButton3{
+    border: 1px solid black;
+    width: 200px;
+    position: absolute;
+    height: 30px;
+    color: black;
+    font-size: 0.6cm;
+    text-align: center;
+    margin-left: 525px;
+    margin-top: 10px;
+}
+.AddToCartButton4{
+    border: 1px solid black;
+    width: 200px;
+    position: absolute;
+    height: 30px;
+    color: black;
+    font-size: 0.6cm;
+    text-align: center;
+    margin-left: 788px;
+    margin-top: 10px;
 }
