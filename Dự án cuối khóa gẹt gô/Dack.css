@@ -11,13 +11,13 @@
     height: 40px;
 }
 .Task1 , .Task2 , .Task3{
-    margin-right: 50px;
+    margin-right: 40px;
     text-decoration: none;
     list-style: none;
-    margin-top: 6px;
+    margin-top: 8px;
     font-size: 0.6cm;
-    font-family: monospace;
     color: rgb(0, 0, 0);
+    font-family: 'Public Sans', sans-serif;
 }
 .FirstLogoInPart1{
     width: 230px;
@@ -58,7 +58,8 @@
     justify-content: space-around;
     position: absolute;
     margin-top: -110px;
-    margin-left: 380px;
+    margin-left: 383px;
+    font-family: 'Fira Sans', sans-serif;
 }
 /* .CrushImg{
     position: absolute;
@@ -85,14 +86,16 @@
     list-style: none;
     margin-top: 20px;
     color: black;
+    font-family: 'Fira Sans', sans-serif;
 }
 .ThanhSanPham1InPart3{
     margin-top: 40px;
     margin-left: 40px;
+    font-family: 'Fira Sans', sans-serif;
 }
 .FirstHrInPart3{
-    width: 215px;
-    margin-left: 40px;
+    width: 245px;
+    margin-left: 25px;
 }
 .Input1InForm{
     position: absolute;
@@ -102,6 +105,7 @@
     margin-top: -170px;
     font-size: 0.45cm;
     border-radius: 10px;
+    font-family: 'Fira Sans', sans-serif;
 }
 .Input2InForm{
     position: absolute;
@@ -111,6 +115,7 @@
     margin-top: -130px;
     font-size: 0.45cm;
     border-radius: 10px;
+    font-family: 'Fira Sans', sans-serif;
 }
 .SecondButtonInPart1Screen1{
     position: absolute;
@@ -128,6 +133,7 @@
     position: absolute;
     margin-top: -30px;
     margin-left: 310px;
+    font-family: 'Fira Sans', sans-serif;
 }
 .SecondHrInPart3{
     position: absolute;
@@ -137,8 +143,8 @@
 }
 .DanhMucSanPhamInPart3{
     border: 1px solid grey;
-    width: 215px;
-    margin-left: 40px;
+    width: 245px;
+    margin-left: 25px;
     margin-top: 15px;
     height: 295px;
 }
@@ -151,6 +157,8 @@
     padding-left: 10px;
     height: 40px;
     padding-top: 5px;
+    font-family: 'Fira Sans', sans-serif;
+
 }
 .Task2InPart3 , .Task3InPart3 ,.Task4InPart3 ,.Task5InPart3 ,.Task6InPart3 ,.Task7InPart3{
     margin-top: 2px;
@@ -175,6 +183,7 @@ a{
     position: absolute;
     margin-top: -95px;
     margin-left: 310px;
+    font-family: 'Archivo Narrow', sans-serif;
 }
 .H41InSp{
     position: absolute;
@@ -189,7 +198,7 @@ a{
 }
 .P2InSp{
     position: absolute;
-    margin-left: 265px;
+    margin-left: 264px;
     width: 200px;
     font-size: 0.49cm;
 }
@@ -219,7 +228,7 @@ a{
 .H44InSp{
     margin-left: 788px;
     font-size: 0.5cm;
-    margin-top: 10px;
+    margin-top: 7px;
 }
 .AnhSanPham1TrongHn2 , .AnhSanPham2TrongHn2 , .AnhSanPham3TrongHn2 , .AnhSanPham4TrongHn2{
     width: 200px;
@@ -228,7 +237,7 @@ a{
     /* border: 1px solid; */
     width: 1050px;
     position: absolute;
-    margin-top: 30px;
+    margin-top: 35px;
     margin-left: 279px;
     justify-content: space-around;
     display: flex;
@@ -236,8 +245,9 @@ a{
 .HangNgangThongTinSanPham2{
     width: 900px;
     position: absolute;
-    margin-top: 230px;
+    margin-top: 235px;
     margin-left: 310px;
+    font-family: 'Archivo Narrow', sans-serif;
 }
 .AnhSanPham1TrongHn3 , .AnhSanPham2TrongHn3 , .AnhSanPham3TrongHn3 , .AnhSanPham4TrongHn3{
     width: 200px;
@@ -246,7 +256,7 @@ a{
     /* border: 1px solid; */
     width: 1050px;
     position: absolute;
-    margin-top: 350px;
+    margin-top: 360px;
     margin-left: 279px;
     justify-content: space-around;
     display: flex;
@@ -254,8 +264,9 @@ a{
 .HangNgangThongTinSanPham3{
     width: 900px;
     position: absolute;
-    margin-top: 550px;
+    margin-top: 560px;
     margin-left: 310px;
+    font-family: 'Archivo Narrow', sans-serif;
 }
 .AnhSanPham1TrongHn4 , .AnhSanPham2TrongHn4 , .AnhSanPham3TrongHn4 , .AnhSanPham4TrongHn4{
     width: 200px;
@@ -264,7 +275,7 @@ a{
     /* border: 1px solid; */
     width: 1050px;
     position: absolute;
-    margin-top: 670px;
+    margin-top: 687px;
     margin-left: 279px;
     justify-content: space-around;
     display: flex;
@@ -272,8 +283,9 @@ a{
 .HangNgangThongTinSanPham4{
     width: 900px;
     position: absolute;
-    margin-top: 870px;
+    margin-top: 890px;
     margin-left: 310px;
+    font-family: 'Archivo Narrow', sans-serif;
 }
 .ButtonToAnotherPage{
     border: 1px solid;
@@ -283,7 +295,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 1000px;
+    margin-top: 1050px;
 }
 .ButtonToAnotherPage2{
     border: 1px solid;
@@ -293,7 +305,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 1000px;
+    margin-top: 1050px;
 }
 .ButtonToAnotherPage3{
     border: 1px solid;
@@ -303,7 +315,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 1000px;
+    margin-top: 1050px;
 }
 .ButtonToAnotherPage4{
     border: 1px solid;
@@ -313,7 +325,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 1000px;
+    margin-top: 1050px;
 }
 .ButtonToAnotherPage5{
     border: 1px solid;
@@ -323,7 +335,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 1000px;
+    margin-top: 1050px;
 }
 .ButtonToAnotherPage6{
     border: 1px solid;
@@ -333,7 +345,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 1000px;
+    margin-top: 1050px;
 }
 .ButtonToAnotherPage7{
     border: 1px solid;
@@ -343,7 +355,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 1000px;
+    margin-top: 1050px;
 }
 .ButtonToAnotherPage8{
     border: 1px solid;
@@ -353,7 +365,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 1000px;
+    margin-top: 1050px;
 }
 .AddToCartButton1{
     border: 1px solid black;
@@ -363,7 +375,7 @@ a{
     color: black;
     font-size: 0.6cm;
     text-align: center;
-    margin-top: 10px;
+    margin-top: 7px;
 }
 .AddToCartButton2{
     border: 1px solid black;
@@ -374,7 +386,7 @@ a{
     font-size: 0.6cm;
     text-align: center;
     margin-left: 262px;
-    margin-top: 10px;
+    margin-top: 7px;
 }
 .AddToCartButton3{
     border: 1px solid black;
@@ -385,7 +397,7 @@ a{
     font-size: 0.6cm;
     text-align: center;
     margin-left: 525px;
-    margin-top: 10px;
+    margin-top: 7px;
 }
 .AddToCartButton4{
     border: 1px solid black;
@@ -396,5 +408,5 @@ a{
     font-size: 0.6cm;
     text-align: center;
     margin-left: 788px;
-    margin-top: 10px;
+    margin-top: 7px;
 }
