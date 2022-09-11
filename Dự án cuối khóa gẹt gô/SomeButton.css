@@ -50,3 +50,73 @@
     margin-top: 628px;
     margin-left: 310px;
 }
+.InformationPaper{
+    height: 700px;
+    margin-left: 430px;
+}
+.H21InAs{
+    font-family: 'Shadows Into Light', cursive;
+    position: absolute;
+    margin-left: 512px;
+    /* font-size: 0.48cm; */
+    margin-top: 111px;
+}
+.H22InAs{
+    font-family: 'Shadows Into Light', cursive;
+    position: absolute;
+    margin-left: 618px;
+    /* font-size: 0.48cm; */
+    margin-top: 170px;
+}
+.H23InAs{
+    font-family: 'Shadows Into Light', cursive;
+    position: absolute;
+    margin-left: 610px;
+    /* font-size: 0.48cm; */
+    margin-top: 322px;
+}
+.H24InAs{
+    font-family: 'Shadows Into Light', cursive;
+    position: absolute;
+    margin-left: 654px;
+    /* font-size: 0.48cm; */
+    margin-top: 415px;
+    font-size: 0.6cm;
+}
+.H25InAs{
+    font-family: 'Shadows Into Light', cursive;
+    position: absolute;
+    margin-left: 493px;
+    font-size: 0.5cm;
+    margin-top: 555px;
+}
+.H26InAs{
+    font-family: 'Shadows Into Light', cursive;
+    position: absolute;
+    margin-left: 800px;
+    /* font-size: 0.5cm; */
+    margin-top: 483px;
+}
+.H27InAs{
+    position: absolute;
+    font-family: 'Shadows Into Light', cursive;
+    margin-left: 700px;
+    /* font-size: 0.5cm; */
+    margin-top: 520px;
+}
+.H28InAs{
+    position: absolute;
+    font-family: 'Shadows Into Light', cursive;
+    margin-left: 700px;
+    /* font-size: 0.5cm; */
+    margin-top: 560px;
+}
+.BackToHomepageButton2{
+        position: absolute;
+        text-decoration: none;
+        font-family: 'Fira Sans', sans-serif;
+        margin-left: -490px;
+        font-size: 0.7cm;
+        /* margin-top: px; */
+        color: black;
+}

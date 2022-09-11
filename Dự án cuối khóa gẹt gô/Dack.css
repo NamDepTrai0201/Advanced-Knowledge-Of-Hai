@@ -19,6 +19,16 @@
     color: rgb(0, 0, 0);
     font-family: 'Public Sans', sans-serif;
 }
+.Task0{
+    position: absolute;
+    margin-right: 1160px;
+    text-decoration: none;
+    list-style: none;
+    margin-top: 4px;
+    font-size: 0.7cm;
+    color: rgb(0, 0, 0);
+    font-family: 'Public Sans', sans-serif;
+}
 .FirstLogoInPart1{
     width: 230px;
     margin-top: -20px;
@@ -228,7 +238,7 @@ a{
 .H44InSp{
     margin-left: 788px;
     font-size: 0.5cm;
-    margin-top: 7px;
+    margin-top: 0px;
 }
 .AnhSanPham1TrongHn2 , .AnhSanPham2TrongHn2 , .AnhSanPham3TrongHn2 , .AnhSanPham4TrongHn2{
     width: 200px;
