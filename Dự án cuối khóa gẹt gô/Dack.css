@@ -247,7 +247,7 @@ a{
     /* border: 1px solid; */
     width: 1050px;
     position: absolute;
-    margin-top: 35px;
+    margin-top: 60px;
     margin-left: 279px;
     justify-content: space-around;
     display: flex;
@@ -255,7 +255,7 @@ a{
 .HangNgangThongTinSanPham2{
     width: 900px;
     position: absolute;
-    margin-top: 235px;
+    margin-top: 260px;
     margin-left: 310px;
     font-family: 'Archivo Narrow', sans-serif;
 }
@@ -266,7 +266,7 @@ a{
     /* border: 1px solid; */
     width: 1050px;
     position: absolute;
-    margin-top: 360px;
+    margin-top: 415px;
     margin-left: 279px;
     justify-content: space-around;
     display: flex;
@@ -274,7 +274,7 @@ a{
 .HangNgangThongTinSanPham3{
     width: 900px;
     position: absolute;
-    margin-top: 560px;
+    margin-top: 615px;
     margin-left: 310px;
     font-family: 'Archivo Narrow', sans-serif;
 }
@@ -285,7 +285,7 @@ a{
     /* border: 1px solid; */
     width: 1050px;
     position: absolute;
-    margin-top: 687px;
+    margin-top: 770px;
     margin-left: 279px;
     justify-content: space-around;
     display: flex;
@@ -293,7 +293,7 @@ a{
 .HangNgangThongTinSanPham4{
     width: 900px;
     position: absolute;
-    margin-top: 890px;
+    margin-top: 970px;
     margin-left: 310px;
     font-family: 'Archivo Narrow', sans-serif;
 }
@@ -305,7 +305,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 1050px;
+    margin-top: 1125px;
 }
 .ButtonToAnotherPage2{
     border: 1px solid;
@@ -315,7 +315,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 1050px;
+    margin-top: 1125px;
 }
 .ButtonToAnotherPage3{
     border: 1px solid;
@@ -325,7 +325,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 1050px;
+    margin-top: 1125px;
 }
 .ButtonToAnotherPage4{
     border: 1px solid;
@@ -335,7 +335,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 1050px;
+    margin-top: 1125px;
 }
 .ButtonToAnotherPage5{
     border: 1px solid;
@@ -345,7 +345,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 1050px;
+    margin-top: 1125px;
 }
 .ButtonToAnotherPage6{
     border: 1px solid;
@@ -355,7 +355,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 1050px;
+    margin-top: 1125px;
 }
 .ButtonToAnotherPage7{
     border: 1px solid;
@@ -365,7 +365,7 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 1050px;
+    margin-top: 1125px;
 }
 .ButtonToAnotherPage8{
     border: 1px solid;
@@ -375,7 +375,167 @@ a{
     text-align: center;
     font-size: 0.7cm;
     color: black;
-    margin-top: 1050px;
+    margin-top: 1125px;
+}
+.ButtonToAnotherPageSpecial1{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 545px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 105px;
+}
+.ButtonToAnotherPageSpecial2{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 580px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 105px;
+}
+.ButtonToAnotherPageSpecial3{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 615px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 105px;
+}
+.ButtonToAnotherPageSpecial4{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 650px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 105px;
+}
+.ButtonToAnotherPageSpecial5{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 685px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 105px;
+}
+.ButtonToAnotherPageSpecial6{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 720px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 105px;
+}
+.ButtonToAnotherPageSpecial7{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 755px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 105px;
+}
+.ButtonToAnotherPageSpecial8{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 790px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 105px;
+}
+.ButtonToAnotherPageSpecialTwo1{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 545px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 405px;
+}
+.ButtonToAnotherPageSpecialTwo2{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 580px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 405px;
+}
+.ButtonToAnotherPageSpecialTwo3{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 615px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 405px;
+}
+.ButtonToAnotherPageSpecialTwo4{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 650px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 405px;
+}
+.ButtonToAnotherPageSpecialTwo5{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 685px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 405px;
+}
+.ButtonToAnotherPageSpecialTwo6{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 720px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 405px;
+}
+.ButtonToAnotherPageSpecialTwo7{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 755px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 405px;
+}
+.ButtonToAnotherPageSpecialTwo8{
+    border: 1px solid;
+    position: absolute;
+    margin-left: 790px;
+    width: 30px;
+    text-align: center;
+    font-size: 0.7cm;
+    color: black;
+    margin-top: 405px;
 }
 .AddToCartButton1{
     border: 1px solid black;
