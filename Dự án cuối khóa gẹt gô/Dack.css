@@ -109,27 +109,31 @@
 }
 .Input1InForm{
     position: absolute;
-    margin-left: 1100px;
-    width: 200px;
+    margin-left: 1050px;
+    width: 250px;
     height: 35px;
     margin-top: -170px;
-    font-size: 0.45cm;
+    font-size: 0.48cm;
     border-radius: 10px;
     font-family: 'Fira Sans', sans-serif;
+    padding-left: 5px;
+    padding-top: 2px;
 }
 .Input2InForm{
     position: absolute;
-    margin-left: 1100px;
-    width: 200px;
+    margin-left: 1050px;
+    width: 250px;
     height: 35px;
     margin-top: -130px;
-    font-size: 0.45cm;
+    font-size: 0.48cm;
     border-radius: 10px;
     font-family: 'Fira Sans', sans-serif;
+    padding-left: 5px;
+    padding-top: 2px;
 }
 .SecondButtonInPart1Screen1{
     position: absolute;
-    margin-left: 1157px;
+    margin-left: 1135px;
     width: 81px;
     height: 25px;
     margin-top: -87px;
